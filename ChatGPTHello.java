@@ -39,6 +39,6 @@ public class ChatGPTHello {
     }
 
     public static void main(String[] args) throws IOException {
-        System.out.println(chatGPT("Hello, ChatGPT!"));
+        System.out.println(chatGPT("Hi, ChatGPT!"));
     }
 }
